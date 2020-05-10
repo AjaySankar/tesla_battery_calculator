@@ -6,8 +6,8 @@ import TeslaBattery from './containers/TeslaBattery';
 function App() {
   return (
     <div className="App">
-        <Header /> 
-        <TeslaBattery/>   
+        <Header />
+        <TeslaBattery/>
     </div>
   );
 }
